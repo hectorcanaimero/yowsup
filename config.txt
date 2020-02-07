@@ -1,0 +1,9 @@
+cc=55
+client_static_keypair=2El/lk0c/qO34okBKJoSjBOIZGUlr1saNbshTtU2XERgEFXOgZIr2g+gKcYpI2hJhZpPKlh6IcHTrxS8gU58Jw==
+expid=pAiEfsABQfijSGlhXz89fg==
+fdid=09b26aad-85d7-48c0-8f42-a60673d8f98e
+id=0+S8ek1gj9AgqgHss7pTv6YwakE=
+login=554187752137
+mcc=724
+mnc=05
+phone=5541987752137
